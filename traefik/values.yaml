@@ -1,5 +1,6 @@
-  service:
+service:
   type: NodePort
+  additionalServices: {}
 
 ports:
   web:
