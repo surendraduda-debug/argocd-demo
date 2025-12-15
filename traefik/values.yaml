@@ -25,7 +25,3 @@ ingressClass:
   enabled: true
   isDefaultClass: true
   name: traefik
-
-logs:
-  general:
-    level: INFO
