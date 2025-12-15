@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://helm.traefik.io/traefik
     chart: traefik
-    targetRevision: "*"
+    targetRevision: "37.3.0"
     helm:
       valueFiles:
       - https://raw.githubusercontent.com/surendraduda-debug/argocd-demo/main/traefik/values.yaml
